@@ -17,5 +17,8 @@
   "homepage": "https://github.com/ilDug/sub-limbo#readme",
   "dependencies": {
     "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "rxjs": "^6.6.3"
   }
 }
