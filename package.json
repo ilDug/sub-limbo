@@ -1,0 +1,21 @@
+{
+  "name": "@ildug/sub-limbo",
+  "version": "1.0.0",
+  "description": "RXJS subscriptions managment",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "rm -rf ./dist/* && tsc "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilDug/sub-limbo.git"
+  },
+  "author": "ilDug",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/ilDug/sub-limbo#readme",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
+}
