@@ -17,7 +17,7 @@ Example:
 
 ``` typescript
 
-import { SubLimbo } from '@ildug/sub-limbo';
+import { Limbo } from '@ildug/sub-limbo';
 
 ...
 export class SomeComponent implements OnDestroy{
